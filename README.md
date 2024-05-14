@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Project collaborators:**
 - John Waweru
 - Effie Nyambura
@@ -779,3 +780,9 @@ bob@dylan:~$
 
 -   GitHub repository: `alx-files_manager`
 -   File: `utils/, controllers/FilesController.js, worker.js`
+=======
+# alx-files_manager
+alx-files_manager project
+* John
+* Effie
+>>>>>>> 5410457e9fb0e2a013665d41dfb455f8596d34d6
