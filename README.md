@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 **Project collaborators:**
 - John Waweru
-- Effie Nyambura
+- Effie Njoki
 
 
 0x04. Files manager
